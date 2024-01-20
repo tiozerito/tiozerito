@@ -6,9 +6,6 @@ Desenvolvedor JavaScript
 
 Olá, eu sou um desenvolvedor web apaixonado por JavaScript e tecnologias web. Tenho 24 anos e trabalho há 6 anos no setor de informática do exército, onde desenvolvo e mantenho sistemas web para diversas aplicações. Minha especialidade é otimização, correção de códigos de Servidores de Minecraft, onde busco criar, melhorar e otimizar cada vez mais seu servidor.
 
-*   🌍  Moro em Minas Gerais
-*   ✉️  Você pode solicitar meus serviços atráves do email: [debruemlucas@gmail.com](mailto:debruemlucas@gmail.com)
-
 ### Habilidades 
 <p align="left">
 
@@ -21,6 +18,6 @@ Olá, eu sou um desenvolvedor web apaixonado por JavaScript e tecnologias web. T
                     </p>
                     
 
-                  ### Socials
-                  
-                  <p align="left"> <a href="https://www.github.com/tiozerito" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/lucasdebruem_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+### Contato
+<p align="left">
+<a href="https://discord.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="36" height="36" alt="tiozero_" /></a>
