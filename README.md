@@ -20,5 +20,4 @@ Olá, eu sou um desenvolvedor web apaixonado por JavaScript e tecnologias web. T
 
 ### Contato
 <p align="left">
-<a href="https://discord.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="tiozero_" /></a>
-tiozero_
+  <a href="https://discord.com/users/tiozero_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"
