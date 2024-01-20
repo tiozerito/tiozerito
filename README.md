@@ -6,8 +6,8 @@ Desenvolvedor JavaScript
 
 Olá, eu sou um desenvolvedor web apaixonado por JavaScript e tecnologias web. Tenho 24 anos e trabalho há 6 anos no setor de informática do exército, onde desenvolvo e mantenho sistemas web para diversas aplicações. Minha especialidade é otimização, correção de códigos de Servidores de Minecraft, onde busco criar, melhorar e otimizar cada vez mais seu servidor.
 
-*   🌍  I'm based in Minas Gerais
-*   ✉️  You can contact me at [debruemlucas@gmail.com](mailto:debruemlucas@gmail.com)
+*   🌍  Moro em Minas Gerais
+*   ✉️  Você pode solicitar meus serviços atráves do email: [debruemlucas@gmail.com](mailto:debruemlucas@gmail.com)
 
 ### Skills 
 <p align="left">
