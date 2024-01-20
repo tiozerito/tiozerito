@@ -16,6 +16,9 @@ Desenvolvedor JavaScript
 </a>
                     </p>
                     
+### Experiências
+Somente em servidores de pequeno e médio porte. A procura de primeira experiência em servidores de médio/grande porte.
+
 
 ### Contato
 <p align="left">
