@@ -20,4 +20,4 @@ Olá, eu sou um desenvolvedor web apaixonado por JavaScript e tecnologias web. T
 
 ### Contato
 <p align="left">
-<a href="https://discord.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="36" height="36" alt="tiozero_" /></a>
+<a href="https://discord.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="tiozero_" /></a>
