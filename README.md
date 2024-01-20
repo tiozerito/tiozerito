@@ -1,10 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lucas Debruem
+Lucas Debruem
 =====================================================================================================================================
 
 Desenvolvedor JavaScript
 ------------------------
 
-Olá, eu sou um desenvolvedor web apaixonado por JavaScript e tecnologias web. Tenho 24 anos e trabalho há 6 anos no setor de informática do exército, onde desenvolvo e mantenho sistemas web para diversas aplicações. Minha especialidade é otimização, correção de códigos de Servidores de Minecraft, onde busco criar, melhorar e otimizar cada vez mais seu servidor.
+Olá, eu sou um desenvolvedor web apaixonado por JavaScript e tecnologias web. Tenho 24 anos e trabalho há 6 anos no setor de informática do Exército Brasileiro, onde desenvolvo e mantenho sistemas para diversas aplicações. 
+Minha especialidade é otimização, correção de códigos de Servidores de Minecraft, onde busco criar, melhorar e otimizar cada vez mais seu servidor.
 
 ### Habilidades 
 <p align="left">
